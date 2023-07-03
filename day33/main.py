@@ -3,9 +3,9 @@ from datetime import datetime
 from time import sleep
 import smtplib
 
-MY_EMAIL = "phillipaipython@outlook.com"
+MY_EMAIL = "Rekklesssspython@outlook.com"
 MY_PASSWORD = "password"
-TO_EMAIL = "phillipaipython@gmail.com"
+TO_EMAIL = "Rekklesssspython@gmail.com"
 MY_LAT = 43.653225
 MY_LONG = -79.383186
 
